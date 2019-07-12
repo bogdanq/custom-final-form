@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+input {
+  display: block;
+  margin-bottom: 10px;
+}
+.wrapper {
+  position: relative;
+}
+
+.delete {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
